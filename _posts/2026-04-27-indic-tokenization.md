@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: Sample Blog Post
-description: Your blog post's abstract.
+description: Your blog post abstract.
 date: 2026-04-27
 future: true
 htmlwidgets: true
