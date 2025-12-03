@@ -11,8 +11,8 @@ mermaid:
   enabled: true
   zoomable: true
 
- authors:
-   - name: Anonymous
+authors:
+  - name: Anonymous
 
 bibliography: 2026-04-27-distill-example.bib
 
