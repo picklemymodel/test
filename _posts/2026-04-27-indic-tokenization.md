@@ -1,8 +1,8 @@
 ---
 layout: distill
-title: Sample Blog Post
+title: indic tokenization
 description: Your blog post abstract.
-date: 2026-04-27
+date: 2025-04-27
 future: true
 htmlwidgets: true
 hidden: true
@@ -14,7 +14,7 @@ mermaid:
 authors:
   - name: Anonymous
 
-bibliography: 2026-04-27-distill-example.bib
+bibliography: 2026-04-27-indic-tokenization.bib
 
 toc:
   - name: Equations
@@ -29,9 +29,6 @@ toc:
   - name: Layouts
   - name: Other Typography?
 
-# Below is an example of injecting additional post-specific styles.
-# This is used in the 'Layouts' section of this post.
-# If you use this post as a template, delete this _styles block.
 _styles: >
   .fake-img {
     background: #bbb;
