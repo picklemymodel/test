@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/test/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-indic-tokenization",
+        
+          title: "indic tokenization",
+        
+        description: "Your blog post abstract.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/blog/2025/indic-tokenization/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
